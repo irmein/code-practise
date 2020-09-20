@@ -70,6 +70,8 @@
            deprecation="true" 
            target="1.1" 
            verbose="false" 
+    	   includejavaruntime="false"
+    	   includeantruntime="false"
            fork="false" 
            source="1.7">
       <src>
@@ -93,6 +95,8 @@
            debug="true" 
            optimize="false" 
            deprecation="true" 
+    	   includejavaruntime="false"
+    	   includeantruntime="false"
            target="1.1" 
            verbose="false" 
            fork="false" 
